@@ -1,0 +1,8 @@
+:root {
+  --my-app-card-theme--Color: #004080;
+}
+
+.pf-c-page.myPageClass {
+  --pf-global--link--Color: var(--my-app-card-theme--Color);
+  --pf-c-page__header--BackgroundColor: #004080;
+}
